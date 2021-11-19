@@ -62,6 +62,7 @@ const translation = {
     "app_preferences": "App Preferences",
     "about_app": "About App",
     "language": "Language",
+    "use_app_font":"Use Application Font (OpenSans)"
   },
   "TabStack": {
     "home": "Home",
